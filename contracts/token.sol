@@ -6,7 +6,7 @@ import "../libs/ERC1155Mintable.sol";
 contract GameToken is ERC1155, ERC1155Mintable {
     
     constructor() public {
-
+        
     }
 
 }
